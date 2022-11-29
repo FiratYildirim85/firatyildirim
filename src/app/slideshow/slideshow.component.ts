@@ -11,7 +11,7 @@ export class SlideshowComponent implements OnInit {
 
   title = 'firatyil';
   images = ['software-developer.jpg', 'computer.jpg', 'coding.jpg'];
-  headlines = ['Bring Holiday to the next Level', 'Dreamland for you', 'maldives waiting']
+  headlines = ['Bring engineering to the next level', 'Born to code', 'make wishes to reality']
   currentImage = 0
   showImage = true;
 
